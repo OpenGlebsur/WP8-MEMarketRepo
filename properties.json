@@ -183,7 +183,7 @@
       "title": "WPydia",
       "screenshots": [],
       "author": "OpenNetdude",
-      "description": "Каталог приложений и обоев для Windows Phone",
+      "description": "Каталог приложений и обоев для Windows Phone  Current repositories:CnProjects (Default); opentracks repo:http://opsrvlega.atwebpages.com/repo.json; luma projects repo :https://raw.githubusercontent.com/lumaprojects/WPydiaRepo/refs/heads/main/repo.json; the repoen repo:https://raw.githubusercontent.com/OpenGlebsur/OpenGlebsur-WPydia-Repo/refs/heads/main/repo.json; ",
       "icon_url": "https://github.com/OpenGlebsur/WP8-MEMarketRepo/blob/main/apps/WPydia.png?raw=true",
       "size": "80.7 kb",
       "category": "tools",
