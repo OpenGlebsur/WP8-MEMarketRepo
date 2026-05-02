@@ -87,6 +87,146 @@
           "download_url": "https://github.com/OpenGlebsur/WP8-MEMarketRepo/raw/refs/heads/main/apps/Lumia%20Apps%20Brazil(WORKED).xap"
         }
       ]
+    },
+    {
+      "id": "cnstore",
+      "base_url": "https://github.com/OpenGlebsur/WP8-MEMarketRepo/tree/main/apps",
+      "title": "CnStore",
+      "screenshots": [],
+      "author": "opennetdude",
+      "description": "Альтернативный магазин приложений для Windows Phone",
+      "icon_url": "https://github.com/OpenGlebsur/WP8-MEMarketRepo/blob/main/apps/CnStore.png?raw=true",
+      "size": "337 kb",
+      "category": "store",
+      "versions": [
+        {
+          "version": "1.0",
+          "download_url": "https://github.com/OpenGlebsur/WP8-MEMarketRepo/raw/refs/heads/main/apps/CnStoreWP8.xap"
+        }
+      ]
+    },
+    {
+      "id": "espn.path",
+      "base_url": "https://github.com/OpenGlebsur/WP8-MEMarketRepo/tree/main/apps",
+      "title": "ESPN (PATH)",
+      "screenshots": [],
+      "author": "OpenNetdude",
+      "description": "Спортивные новости и результаты от ESPN",
+      "icon_url": "https://github.com/OpenGlebsur/WP8-MEMarketRepo/blob/main/apps/ESPN.png?raw=true",
+      "size": "1.05 mb",
+      "category": "sports",
+      "versions": [
+        {
+          "version": "1.0",
+          "download_url": "https://github.com/OpenGlebsur/WP8-MEMarketRepo/raw/refs/heads/main/apps/Nokia_ESPN_Patched.xap"
+        }
+      ]
+    },
+    {
+      "id": "melegram",
+      "base_url": "https://github.com/OpenGlebsur/WP8-MEMarketRepo/tree/main/apps",
+      "title": "Melegram",
+      "screenshots": [],
+      "author": "OpenNetdude",
+      "description": "Клиент мессенджера Telegram для Windows Phone",
+      "icon_url": "https://github.com/OpenGlebsur/WP8-MEMarketRepo/blob/main/apps/melegram.png?raw=true",
+      "size": "245 kb",
+      "category": "social",
+      "versions": [
+        {
+          "version": "BETA8.0",
+          "download_url": "https://github.com/OpenGlebsur/WP8-MEMarketRepo/raw/refs/heads/main/apps/Melegram_BETA8.0.xap"
+        }
+      ]
+    },
+    {
+      "id": "simple.notes.new",
+      "base_url": "https://github.com/OpenGlebsur/WP8-MEMarketRepo/tree/main/apps",
+      "title": "Simple Notes",
+      "screenshots": [],
+      "author": "OpenNetdude",
+      "description": "Простое приложение для заметок",
+      "icon_url": "https://github.com/OpenGlebsur/WP8-MEMarketRepo/blob/main/apps/Simple%20Notes.png?raw=true",
+      "size": "231 km",
+      "category": "note",
+      "versions": [
+        {
+          "version": "V1",
+          "download_url": "https://github.com/OpenGlebsur/WP8-MEMarketRepo/raw/refs/heads/main/apps/SimpleNotes_V1.xap"
+        },
+        {
+          "version": "V2",
+          "download_url": "https://github.com/OpenGlebsur/WP8-MEMarketRepo/raw/refs/heads/main/apps/SimpleNotes_V2.xap"
+        }
+      ]
+    },
+    {
+      "id": "reidito7.path",
+      "base_url": "https://github.com/OpenGlebsur/WP8-MEMarketRepo/tree/main/apps",
+      "title": "Reidito7 (PATH)",
+      "screenshots": [],
+      "author": "OpenNetdude",
+      "description": "Клиент Reddit для Windows Phone 7",
+      "icon_url": "https://github.com/OpenGlebsur/WP8-MEMarketRepo/blob/main/apps/Reddit.png?raw=true",
+      "size": "2.17 mb",
+      "category": "news",
+      "versions": [
+        {
+          "version": "1.0",
+          "download_url": "https://github.com/OpenGlebsur/WP8-MEMarketRepo/raw/refs/heads/main/apps/Reidito7.xap"
+        }
+      ]
+    },
+    {
+      "id": "wpydia",
+      "base_url": "https://github.com/OpenGlebsur/WP8-MEMarketRepo/tree/main/apps",
+      "title": "WPydia",
+      "screenshots": [],
+      "author": "OpenNetdude",
+      "description": "Каталог приложений и обоев для Windows Phone",
+      "icon_url": "https://github.com/OpenGlebsur/WP8-MEMarketRepo/blob/main/apps/WPydia.png?raw=true",
+      "size": "80.7 kb",
+      "category": "tools",
+      "versions": [
+        {
+          "version": "EB1",
+          "download_url": "https://github.com/OpenGlebsur/WP8-MEMarketRepo/raw/refs/heads/main/apps/WPydia_EB1%20(1).xap"
+        }
+      ]
+    },
+    {
+      "id": "spotify.opentracks",
+      "base_url": "https://github.com/OpenGlebsur/WP8-MEMarketRepo/tree/main/apps",
+      "title": "Spotify (OpenTracks API)",
+      "screenshots": [],
+      "author": "OpenNetdude",
+      "description": "Патченный клиент Spotify с поддержкой OpenTracks API",
+      "icon_url": "https://github.com/OpenGlebsur/WP8-MEMarketRepo/blob/main/apps/Spotify.png?raw=true",
+      "size": "392 kb",
+      "category": "music+video",
+      "versions": [
+        {
+          "version": "Patched",
+          "download_url": "https://github.com/OpenGlebsur/WP8-MEMarketRepo/raw/refs/heads/main/apps/Spotify_Patched%20(opentracks).xap"
+        }
+      ]
+    },
+    {
+      "id": "windowscentral.path",
+      "base_url": "https://github.com/OpenGlebsur/WP8-MEMarketRepo/tree/main/apps",
+      "title": "Windows Central (PATH)",
+      "screenshots": [],
+      "author": "OpenNetdude",
+      "description": "Новости и обзоры Windows, Xbox и устройств Microsoft",
+      "icon_url": "https://github.com/OpenGlebsur/WP8-MEMarketRepo/blob/main/apps/Windows%20Central.png?raw=true",
+      "size": "517 kb",
+      "category": "news",
+      "versions": [
+        {
+          "version": "V3 RSS",
+          "download_url": "https://github.com/OpenGlebsur/WP8-MEMarketRepo/raw/refs/heads/main/apps/WindowsCentral_V3_RSS.xap"
+        }
+      ]
     }
   ]
 }
