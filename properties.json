@@ -20,6 +20,23 @@
         }
       ]
     },
+      {
+      "id": "reopen.rewinmusic",
+      "base_url": "https://github.com/OpenGlebsur/WP8-MEMarketRepo/tree/main/apps",
+      "title": "ReWinMusic",
+      "screenshots": [],
+      "author": "ReOpenGlebsur",
+      "description": "музон ",
+      "icon_url": "https://github.com/OpenGlebsur/WP8-MEMarketRepo/blob/main/apps/ReWinMusic%20(2).png?raw=true",
+      "size": "1.52 KB",
+      "category": "music",
+      "versions": [
+        {
+          "version": "1.0.0.0",
+          "download_url": "https://github.com/OpenGlebsur/WP8-MEMarketRepo/raw/refs/heads/main/apps/ReWinMusIc.WindowsPhone_1.0.0.0_AnyCPU_Debug%20(2).appx"
+        }
+      ]
+    },
     {
       "id": "reopen.notedramewallpapers",
       "base_url": "https://github.com/OpenGlebsur/WP8-MEMarketRepo/tree/main/apps",
