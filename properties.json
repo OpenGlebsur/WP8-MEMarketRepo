@@ -1,7 +1,7 @@
 {
   "repo_name": "ReOpen Market repo",
   "creator": "ReOpenGlebsur",
-  "last_updated": "02.05.2026",
+  "last_updated": "31.05.2026",
   "apps": [
     {
       "id": "reopen.rewinstore",
@@ -17,23 +17,6 @@
         {
           "version": "1.0.0.8",
           "download_url": "https://github.com/OpenGlebsur/WP8-MEMarketRepo/raw/refs/heads/main/apps/ReWinStoreMobile.appx"
-        }
-      ]
-    },
-      {
-      "id": "reopen.rewinmusic",
-      "base_url": "https://github.com/OpenGlebsur/WP8-MEMarketRepo/tree/main/apps",
-      "title": "ReWinMusic",
-      "screenshots": [],
-      "author": "ReOpenGlebsur",
-      "description": "музон ",
-      "icon_url": "https://github.com/OpenGlebsur/WP8-MEMarketRepo/blob/main/apps/ReWinMusic%20(2).png?raw=true",
-      "size": "1.52 KB",
-      "category": "music",
-      "versions": [
-        {
-          "version": "1.0.0.0",
-          "download_url": "https://github.com/OpenGlebsur/WP8-MEMarketRepo/raw/refs/heads/main/apps/ReWinMusIc.WindowsPhone_1.0.0.0_AnyCPU_Debug%20(2).appx"
         }
       ]
     },
@@ -113,7 +96,7 @@
       "author": "opennetdude",
       "description": "Альтернативный магазин приложений для Windows Phone",
       "icon_url": "https://github.com/OpenGlebsur/WP8-MEMarketRepo/blob/main/apps/CnStore.png?raw=true",
-      "size": "337 kb",
+      "size": "N/A",
       "category": "store",
       "versions": [
         {
@@ -130,7 +113,7 @@
       "author": "OpenNetdude",
       "description": "Спортивные новости и результаты от ESPN",
       "icon_url": "https://github.com/OpenGlebsur/WP8-MEMarketRepo/blob/main/apps/ESPN.png?raw=true",
-      "size": "1.05 mb",
+      "size": "N/A",
       "category": "sports",
       "versions": [
         {
@@ -147,7 +130,7 @@
       "author": "OpenNetdude",
       "description": "Клиент мессенджера Telegram для Windows Phone",
       "icon_url": "https://github.com/OpenGlebsur/WP8-MEMarketRepo/blob/main/apps/melegram.png?raw=true",
-      "size": "245 kb",
+      "size": "N/A",
       "category": "social",
       "versions": [
         {
@@ -164,7 +147,7 @@
       "author": "OpenNetdude",
       "description": "Простое приложение для заметок",
       "icon_url": "https://github.com/OpenGlebsur/WP8-MEMarketRepo/blob/main/apps/Simple%20Notes.png?raw=true",
-      "size": "231 km",
+      "size": "N/A",
       "category": "note",
       "versions": [
         {
@@ -185,7 +168,7 @@
       "author": "OpenNetdude",
       "description": "Клиент Reddit для Windows Phone 7",
       "icon_url": "https://github.com/OpenGlebsur/WP8-MEMarketRepo/blob/main/apps/Reddit.png?raw=true",
-      "size": "2.17 mb",
+      "size": "N/A",
       "category": "news",
       "versions": [
         {
@@ -200,9 +183,9 @@
       "title": "WPydia",
       "screenshots": [],
       "author": "OpenNetdude",
-      "description": "Каталог приложений и обоев для Windows Phone  Current repositories:CnProjects (Default); opentracks repo:http://opsrvlega.atwebpages.com/repo.json; luma projects repo :https://raw.githubusercontent.com/lumaprojects/WPydiaRepo/refs/heads/main/repo.json; the repoen repo:https://raw.githubusercontent.com/OpenGlebsur/OpenGlebsur-WPydia-Repo/refs/heads/main/repo.json; ",
+      "description": "Каталог приложений и обоев для Windows Phone",
       "icon_url": "https://github.com/OpenGlebsur/WP8-MEMarketRepo/blob/main/apps/WPydia.png?raw=true",
-      "size": "80.7 kb",
+      "size": "N/A",
       "category": "tools",
       "versions": [
         {
@@ -219,7 +202,7 @@
       "author": "OpenNetdude",
       "description": "Патченный клиент Spotify с поддержкой OpenTracks API",
       "icon_url": "https://github.com/OpenGlebsur/WP8-MEMarketRepo/blob/main/apps/Spotify.png?raw=true",
-      "size": "392 kb",
+      "size": "N/A",
       "category": "music+video",
       "versions": [
         {
@@ -236,12 +219,29 @@
       "author": "OpenNetdude",
       "description": "Новости и обзоры Windows, Xbox и устройств Microsoft",
       "icon_url": "https://github.com/OpenGlebsur/WP8-MEMarketRepo/blob/main/apps/Windows%20Central.png?raw=true",
-      "size": "517 kb",
+      "size": "N/A",
       "category": "news",
       "versions": [
         {
           "version": "V3 RSS",
           "download_url": "https://github.com/OpenGlebsur/WP8-MEMarketRepo/raw/refs/heads/main/apps/WindowsCentral_V3_RSS.xap"
+        }
+      ]
+    },
+    {
+      "id": "reopen.rewinmusic",
+      "base_url": "https://github.com/OpenGlebsur/WP8-MEMarketRepo/tree/main/apps",
+      "title": "ReWinMusic",
+      "screenshots": [],
+      "author": "ReOpenGlebsur",
+      "description": "музон",
+      "icon_url": "https://github.com/OpenGlebsur/WP8-MEMarketRepo/blob/main/apps/ReWinMusic%20(2).png?raw=true",
+      "size": "1.52 KB",
+      "category": "music",
+      "versions": [
+        {
+          "version": "1.0.0.0",
+          "download_url": "https://github.com/OpenGlebsur/WP8-MEMarketRepo/raw/refs/heads/main/apps/ReWinMusIc.WindowsPhone_1.0.0.0_AnyCPU_Debug%20(2).appx"
         }
       ]
     }
