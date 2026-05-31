@@ -1,13 +1,13 @@
 {
   "repo_name": "ReOpen Market repo",
   "creator": "ReOpenGlebsur",
-  "last_updated": "2026-05-31",
-  "supported_os": ["WP7", "WP8.1", "W10M"],
+  "last_updated": "31.05.2026",
+  "supported_os": ["WP8.1", "W10M"],
   "apps": [
     {
       "id": "reopen.rewinstore",
       "base_url": "https://raw.githubusercontent.com/OpenGlebsur/WP8-MEMarketRepo/main/apps/",
-      "os": "WP8.1",
+      "os": "W10M",
       "title": "ReWinStore",
       "screenshots": [],
       "author": "ReOpenGlebsur",
@@ -21,7 +21,7 @@
     {
       "id": "reopen.notedramewallpapers",
       "base_url": "https://raw.githubusercontent.com/OpenGlebsur/WP8-MEMarketRepo/main/apps/",
-      "os": "WP8.1",
+      "os": "W10M",
       "title": "Note Drame Wallapapers",
       "screenshots": [],
       "author": "ReOpenGlebsur",
@@ -35,7 +35,7 @@
     {
       "id": "reopen.units",
       "base_url": "https://raw.githubusercontent.com/OpenGlebsur/WP8-MEMarketRepo/main/apps/",
-      "os": "WP8.1",
+      "os": "W10M",
       "title": "Units Mobile (SIMPLE PORT)",
       "screenshots": [],
       "author": "ReOpenGlebsur",
@@ -49,7 +49,7 @@
     {
       "id": "reopen.translator",
       "base_url": "https://raw.githubusercontent.com/OpenGlebsur/WP8-MEMarketRepo/main/apps/",
-      "os": "WP7",
+      "os": "W10M",
       "title": "Yandex Translator (API NOT WORK)",
       "screenshots": [],
       "author": "ReOpenGlebsur",
@@ -77,7 +77,7 @@
     {
       "id": "cnstore",
       "base_url": "https://raw.githubusercontent.com/OpenGlebsur/WP8-MEMarketRepo/main/apps/",
-      "os": "WP7",
+      "os": "WP8.1",
       "title": "CnStore",
       "screenshots": [],
       "author": "opennetdude",
@@ -91,7 +91,7 @@
     {
       "id": "espn.path",
       "base_url": "https://raw.githubusercontent.com/OpenGlebsur/WP8-MEMarketRepo/main/apps/",
-      "os": "WP7",
+      "os": "WP8.1",
       "title": "ESPN (PATH)",
       "screenshots": [],
       "author": "OpenNetdude",
@@ -105,7 +105,7 @@
     {
       "id": "melegram",
       "base_url": "https://raw.githubusercontent.com/OpenGlebsur/WP8-MEMarketRepo/main/apps/",
-      "os": "WP7",
+      "os": "WP8.1",
       "title": "Melegram",
       "screenshots": [],
       "author": "OpenNetdude",
@@ -141,7 +141,7 @@
     {
       "id": "reidito7.path",
       "base_url": "https://raw.githubusercontent.com/OpenGlebsur/WP8-MEMarketRepo/main/apps/",
-      "os": "WP7",
+      "os": "WP8.1",
       "title": "Reidito7 (PATH)",
       "screenshots": [],
       "author": "OpenNetdude",
@@ -155,7 +155,7 @@
     {
       "id": "wpydia",
       "base_url": "https://raw.githubusercontent.com/OpenGlebsur/WP8-MEMarketRepo/main/apps/",
-      "os": "WP7",
+      "os": "WP8.1",
       "title": "WPydia",
       "screenshots": [],
       "author": "OpenNetdude",
@@ -169,7 +169,7 @@
     {
       "id": "spotify.opentracks",
       "base_url": "https://raw.githubusercontent.com/OpenGlebsur/WP8-MEMarketRepo/main/apps/",
-      "os": "WP7",
+      "os": "WP8.1",
       "title": "Spotify (OpenTracks API)",
       "screenshots": [],
       "author": "OpenNetdude",
@@ -183,7 +183,7 @@
     {
       "id": "windowscentral.path",
       "base_url": "https://raw.githubusercontent.com/OpenGlebsur/WP8-MEMarketRepo/main/apps/",
-      "os": "WP7",
+      "os": "WP8.1",
       "title": "Windows Central (PATH)",
       "screenshots": [],
       "author": "OpenNetdude",
@@ -197,7 +197,7 @@
     {
       "id": "reopen.rewinmusic",
       "base_url": "https://raw.githubusercontent.com/OpenGlebsur/WP8-MEMarketRepo/main/apps/",
-      "os": "WP8.1",
+      "os": "W10M",
       "title": "ReWinMusic",
       "screenshots": [],
       "author": "ReOpenGlebsur",
